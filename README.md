@@ -25,3 +25,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=EffEmPee" alt="Felipe Pierotti" />
 
+
+
+[wpp] : https://api.whatsapp.com/send?phone=5543984110685&text=Ola%2C%20venho%20pelo%20GitHub!
+[linkedin] : https://www.linkedin.com/in/felipe-pierotti-1104531b7/
+[instagram] : https://www.instagram.com/felipe_pierotti/
+[twitter] : https://twitter.com/felipe_pierotti
