@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Felipe and,
 
 ## I'm only a student for the moment
--🌱 I’m currently learning every kinda stuff related to web development
+🌱 I’m currently learning every kinda stuff related to web development
 
--📚 I intend to be a mechatronic engineer 
+📚 I intend to be a mechatronic engineer 
 
--🥅 My current goal is being more proactive on github
+🥅 My current goal is being more proactive on github
 
--🎮 I like to play some casual games for fun
+🎮 I like to play some casual games for fun
 
 <br />
 
