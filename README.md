@@ -29,6 +29,14 @@
 </details>
 
 ---
+<details>
+<summary> :zap: GitHub Stats</summary>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EffEmPee&show_icons=true"/>
+
+</details>
+
+<br/>
+
 ### Reach me:
 
 [<img align="left" alt="Felipe Pierotti | tt"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051382.svg" />][twitter]
@@ -36,11 +44,7 @@
 [<img align="left" alt="Felipe Pierotti | in"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051384.svg" />][linkedin]
 [<img align="left" alt="Felipe Pierotti | wpp" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051374.svg" />][wpp]
 
-<details>
-<summary> :zap: GitHub Stats</summary>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EffEmPee&show_icons=true"/>
-
-</details>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=EffEmPee" alt="Felipe Pierotti" />
 
