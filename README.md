@@ -23,17 +23,21 @@
 
 <br/>
 
----
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffEmPee&layout=compact" alt="EffEmPee" />
 
 </details>
 
----
+
 <details>
 <summary> :zap: GitHub Stats</summary>
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EffEmPee&show_icons=true"/>
 
 </details>
+
+<br/>
+
+---
 
 <br/>
 
@@ -44,11 +48,10 @@
 [<img align="left" alt="Felipe Pierotti | in"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051384.svg" />][linkedin]
 [<img align="left" alt="Felipe Pierotti | wpp" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051374.svg" />][wpp]
 
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=EffEmPee" alt="Felipe Pierotti" />
 
-
+<br/>
 
 [wpp]: https://api.whatsapp.com/send?phone=5543984110685
 [linkedin]: https://www.linkedin.com/in/felipe-pierotti-1104531b7/
