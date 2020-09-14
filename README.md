@@ -28,7 +28,6 @@
 </details>
 
 <br />
-<br />
 
 <img src="https://komarev.com/ghpvc/?username=EffEmPee" alt="Felipe Pierotti" />
 
