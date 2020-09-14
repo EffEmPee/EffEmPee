@@ -8,7 +8,7 @@
 -🥅 My current goal is being more proactive on github
 
 -🎮 I like to play some casual games for fun
-
+---
 <details>
 <summary> 💻 Languages and Tools: </summary>
 
@@ -20,11 +20,11 @@
 [<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][/]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][/]
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffEmPee&layout=compact" alt="EffEmPee" />
 
 </details>
 
+---
 ### Reach me:
 
 [<img align="left" alt="Felipe Pierotti | tt"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051382.svg" />][twitter]
