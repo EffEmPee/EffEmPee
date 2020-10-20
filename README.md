@@ -10,7 +10,7 @@
 ### -🎮 I like to play some casual games for fun
 
 ---
-<h1> 💻 Languages and Tools: </h1>
+## 💻 Languages and Tools:
 <details>
   <summary> </summary>
 
