@@ -1,17 +1,18 @@
-### Hi there 👋 I'm Felipe and,
+# Hi there 👋 I'm Felipe and,
 
 ## I'm only a student for the moment
--🌱 I’m currently learning every kinda stuff related to web development
+### -🌱 I’m currently learning every kinda stuff related to web development
 
--📚 I intend to be a mechatronic engineer 
+### -📚 I intend to be a mechatronic engineer 
 
--🥅 My current goal is being more proactive on github
+### -🥅 My current goal is being more proactive on github
 
--🎮 I like to play some casual games for fun
+### -🎮 I like to play some casual games for fun
 
 ---
+<h1> 💻 Languages and Tools: </h1>
 <details>
-<summary> 💻 Languages and Tools: </summary>
+  <summary> </summary>
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][/]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][/]
@@ -27,9 +28,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffEmPee&layout=compact" alt="EffEmPee" />
 
 </details>
-
-
-### :zap: GitHub Stats
+</br>
+</br>
 
 <img alt="EffEmPee Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EffEmPee&show_icons=true"/>
 
@@ -39,8 +39,6 @@
 [<img align="left" alt="Felipe Pierotti | ig"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051364.svg" />][instagram]
 [<img align="left" alt="Felipe Pierotti | in"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051384.svg" />][linkedin]
 [<img align="left" alt="Felipe Pierotti | wpp" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051374.svg" />][wpp]
-
-<img align="left" src="https://komarev.com/ghpvc/?username=EffEmPee" alt="Felipe Pierotti" />
 
 
 [wpp]: https://api.whatsapp.com/send?phone=5543984110685
