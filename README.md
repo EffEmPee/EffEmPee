@@ -1,49 +1,14 @@
-# Hi there 👋 I'm Felipe and,
+# Felipe Pierotti
 
-## I'm only a student for the moment
-### -🌱 I’m currently learning every kinda stuff related to web development
+>software developer
 
-### -📚 I intend to be a mechatronic engineer 
+[![Twitter Badge](https://img.shields.io/badge/-Tweet-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/fefe_pierotti)](https://twitter.com/fefe_pierotti)
+[![Linkedin Badge](https://img.shields.io/badge/-Linked_In-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-pierotti-1104531b7/)](https://www.linkedin.com/in/felipe-pierotti-1104531b7/)
 
-### -🥅 My current goal is being more proactive on github
+```
+>_ I pretend to be a software engineer someday
+```
 
-### -🎮 I like to play some casual games for fun
-
----
-## 💻 Languages and Tools:
-<details>
-  <summary> </summary>
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][/]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][/]
-[<img align="left" alt="JAVAs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][/]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][/]
-[<img align="left" alt="C" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/3479/3479400.svg" />][/]
-[<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][/]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][/]
-
-<br/>
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffEmPee&layout=compact" alt="EffEmPee" />
-
-</details>
-</br>
-</br>
-
-<img alt="EffEmPee Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EffEmPee&show_icons=true"/>
-
-### Reach me:
-
-[<img align="left" alt="Felipe Pierotti | tt"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051382.svg" />][twitter]
-[<img align="left" alt="Felipe Pierotti | ig"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051364.svg" />][instagram]
-[<img align="left" alt="Felipe Pierotti | in"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051384.svg" />][linkedin]
-[<img align="left" alt="Felipe Pierotti | wpp" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051374.svg" />][wpp]
-
-
-[wpp]: https://api.whatsapp.com/send?phone=5543984110685
-[linkedin]: https://www.linkedin.com/in/felipe-pierotti-1104531b7/
-[instagram]: https://www.instagram.com/felipe_pierotti/
-[twitter]: https://twitter.com/felipe_pierotti
-[/]: https://github.com/EffEmPee
-
+```
+>_ here you can find some of my study projects, check it with no limits
+```
